@@ -1,0 +1,8 @@
+@charset "utf-8";
+body {
+    background-image: url(pexels-s-j-11587303.jpg);
+    background-size: cover;
+    color: #000000;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: large;
+}
